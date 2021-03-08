@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JS Typing Speed Test</title>
+    <script src="script.js" async></script>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i,900,900i" type="text/css" media="all">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="masthead">
+        <h1>Testez votre vitesse de frappe</h1>
+    </header>
+    <main class="main">
+        <article class="intro">
+            <p>Ceci est un test de frappe. Votre objectif est de dupliquer le texte fourni, EXACTEMENT, dans le champ ci-dessous. Le minuteur démarre lorsque vous commencez à taper et ne s'arrête que lorsque vous correspondez exactement à ce texte. Bonne chance!</p>
+        </article><!-- .intro -->
+        <section class="test-area">
+            <div id="origin-text">
+                <p>Coucou c'est moi</p>
+            </div><!-- #origin-text -->
+
+            <div class="test-wrapper">
+                <textarea id="test-area" name="textarea" rows="6" placeholder="L'horloge démarre lorsque vous commencez à taper."></textarea>
+            </div><!-- .test-wrapper -->
+
+            <div class="meta">
+                <section id="clock">
+                    <div class="timer">00:00:00</div>
+                </section>
+
+                <button id="reset">Recommencer</button>
+            </div><!-- .meta -->
+        </section><!-- .test-area -->
+    </main>
+
+</body>
+
+</html>

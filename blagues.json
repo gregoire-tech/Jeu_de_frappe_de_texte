@@ -1,0 +1,27 @@
+[
+    {
+    "id": 1,
+    "content": "Qu'est ce qui n'est pas un steak ?",
+    "hidden":"Une pastèque."
+    },
+    {
+    "id": 2,
+    "content": "C'est quoi une chauve souris avec une perruque ?",
+    "hidden":"Une souris."
+    },
+    {
+    "id": 3,
+    "content": "C'est l'histoire d'un pingouin qui respire par les fesses",
+    "hidden":"Un jour il s’assoit et il meurt."
+    },
+    {
+    "id": 4,
+    "content": "C'est l'histoire du ptit dej, tu la connais ?",
+    "hidden":"Pas de bol."
+    },
+    {
+    "id": 5,
+    "content": "C'est l'histoire de 2 patates qui traversent la route.",
+    "hidden":"L’une d’elle se fait écraser. L’autre dit : « Oh purée ! »"
+    }
+    ]
